@@ -54,7 +54,7 @@ The dataset includes seven different diagnostic categories:
 
 The project achieved 80%+ accuracy on the test set with the following evaluation metrics:
 
-- **Accuracy**: 82.7%
+- **Accuracy**: 81%
 - **Precision**: 83.5%
 - **Recall**: 81.9%
 - **F1-Score**: 82.7%
